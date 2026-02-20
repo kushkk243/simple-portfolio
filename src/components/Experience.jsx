@@ -18,7 +18,7 @@ export default function Experience() {
         {
             degree: 'MSE in Robotics',
             school: 'Johns Hopkins University, Baltimore',
-            period: '2025 -- 2027',
+            period: '2025 -- Present',
             description: 'GPA: 3.67. Focus on human-robot interaction, autonomous systems, and intelligent robotics.',
         },
         {

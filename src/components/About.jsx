@@ -1,6 +1,6 @@
 export default function About() {
     const stats = [
-        { label: 'Years Experience', value: '3+' },
+        { label: 'Years Robotics Experience', value: '3+' },
         { label: 'Projects Completed', value: '10+' },
         { label: 'Patents Published', value: '2' },
     ];

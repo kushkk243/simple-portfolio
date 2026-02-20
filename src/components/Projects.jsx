@@ -85,7 +85,7 @@ export default function Projects() {
                 <div className="mb-20">
                     <p className="text-xs tracking-[0.3em] text-neutral-500 uppercase mb-4">Portfolio</p>
                     <h2 className="text-3xl sm:text-4xl font-extralight text-white tracking-tight">
-                        Selected Projects
+                        Projects
                     </h2>
                     <div className="w-16 h-px bg-neutral-700 mt-8"></div>
                 </div>
